@@ -40,31 +40,23 @@
 
 </div>
 
-## 💻 Most Used Languages (All Repositories with Percentages)
+## 💻 Language Statistics (All Repositories with Percentages)
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AADI0009&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&count_private=true&include_all_commits=true)
+![Top Languages Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=AADI0009&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&count_private=true&include_all_commits=true&exclude_repo=)
 
-![Language Stats Detailed](https://github-readme-stats.vercel.app/api/top-langs/?username=AADI0009&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&count_private=true)
+![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=AADI0009&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&count_private=true)
+
+![Top Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=AADI0009&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&count_private=true)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AADI0009&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-## 🔥 Contribution Graph (Maximum Activity Visualization)
-
-<div align="center">
-  
-![GitHub Contribution Grid](https://ghchart.rshah.org/58a6ff/AADI0009)
-
-![3D Contribution Profile](https://github-readme-stats.vercel.app/api?username=AADI0009&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AADI0009&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)
 
 </div>
 
