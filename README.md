@@ -12,6 +12,20 @@
 
 ---
 
+## 🎯 Profile Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AADI0009&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AADI0009&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AADI0009&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AADI0009&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AADI0009&theme=github_dark)
+
+</div>
+
 ## 📊 Overall GitHub Statistics (All Repositories & All Time)
 
 <div align="center">
