@@ -6,6 +6,8 @@
 
 [![Email](https://img.shields.io/badge/Email-lithora.prod%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:lithora.prod@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AADI0009&color=58a6ff&style=for-the-badge&label=TOTAL+PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -22,11 +24,19 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AADI0009&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AADI0009&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AADI0009&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&currStreakNum=58a6ff&sideLabels=c9d1d9&dates=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AADI0009&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+</div>
+
+## 💻 Most Used Languages (All Repositories with Percentages)
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AADI0009&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&count_private=true&include_all_commits=true)
+
+![Language Stats Detailed](https://github-readme-stats.vercel.app/api/top-langs/?username=AADI0009&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&count_private=true)
 
 </div>
 
@@ -38,11 +48,13 @@
 
 </div>
 
-## 💻 Contribution Graph
+## 🔥 Contribution Graph (Maximum Activity Visualization)
 
 <div align="center">
   
 ![GitHub Contribution Grid](https://ghchart.rshah.org/58a6ff/AADI0009)
+
+![3D Contribution Profile](https://github-readme-stats.vercel.app/api?username=AADI0009&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
 </div>
 
@@ -54,6 +66,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AADI0009&color=58a6ff&style=for-the-badge)
+*Last Updated: 2025 | Showcasing contributions across all years*
 
 </div>
